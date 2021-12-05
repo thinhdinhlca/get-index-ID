@@ -1,0 +1,24 @@
+{
+  "kind": "column",
+  "name": "Get index of text in array",
+  "description": "Get index of a string in an array",
+  "author": "Manu.n",
+  "params": [
+    {
+      "name": "array",
+      "displayName": "Array",
+      "type": {
+        "kind": "array",
+        "items": "string"
+      }
+    },
+      {
+      "name": "string",
+      "displayName": "Input text",
+      "type": "string"
+      }
+  ],
+  "result": {
+      "type": "primitive"
+      }
+}
